@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 600
+	}
+}
